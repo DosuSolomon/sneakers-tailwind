@@ -9,3 +9,10 @@ body{
 .sneaker{
   color: hsl(26, 100%, 55%);
 }
+.desc{
+  color: hsl(219, 9%, 45%);
+}
+.discount{
+  color: hsl(26, 100%, 55%);
+  background: hsl(25, 100%, 94%)
+}
